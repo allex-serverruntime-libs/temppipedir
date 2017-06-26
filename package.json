@@ -1,0 +1,28 @@
+{
+  "name": "allex_temppipedirserverruntimelib",
+  "version": "1.0.0",
+  "description": "AllexJS server runtime lib for determining the temp pipe directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-serverruntime-libs/temppipedir.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "server",
+    "runtime",
+    "lib",
+    "temp",
+    "pipe",
+    "directory"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-serverruntime-libs/temppipedir/issues"
+  },
+  "homepage": "https://github.com/allex-serverruntime-libs/temppipedir#readme"
+}
